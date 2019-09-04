@@ -1,0 +1,34 @@
+body {
+	font-family: American Typewriter;
+	background-color: lightgray;
+}
+
+h1 {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h2 {
+	font-variant: all;
+	text-align: center;
+
+}
+
+.venkman {
+	color: red;
+}
+.barrett {
+	color: teal;
+}
+.mayor {
+	color: green;
+}
+.stantz {
+	color: blue;
+}
+.spengler {
+	color: purple;
+}
+.zeddemore {
+	color: magenta;
+}
