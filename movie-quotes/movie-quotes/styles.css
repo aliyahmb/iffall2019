@@ -1,0 +1,19 @@
+body {
+	font-family: American Typewriter;
+	background-color: gray;
+}
+
+h1 {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h2 {
+	font-variant: all;
+	text-align: center;
+
+}
+
+.character {
+	color:white;
+}
