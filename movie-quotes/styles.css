@@ -1,6 +1,6 @@
 body {
 	font-family: American Typewriter;
-	background-color: lightgray;
+	background-color: gray;
 }
 
 h1 {
@@ -14,21 +14,6 @@ h2 {
 
 }
 
-.venkman {
-	color: red;
-}
-.barrett {
-	color: teal;
-}
-.mayor {
-	color: green;
-}
-.stantz {
-	color: blue;
-}
-.spengler {
-	color: purple;
-}
-.zeddemore {
-	color: magenta;
+.character {
+	color:white;
 }
