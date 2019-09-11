@@ -1,0 +1,54 @@
+body {
+	font-family: Raleway;
+	/*To leave comments in CSS*/
+	/*Use quotes for repeating a font – double click section and hit quotes to "wrap text"*/
+	/*Units can be pt; px; %; "1em"=16px which is like a % relative to font size of document; 1rem which is % relative to HTML document */
+	background-color:#cecece;
+}
+
+div {
+	font-size:32px;
+	color: #696969;
+	background-color:white;
+	line-height: 1.55;
+}
+
+h1 {
+	font-size: 32px;
+	color: white;
+	/*Font colors are just "color"*/
+	font-weight: bold;
+	/*Includes "normal"; "bold"; 400 (normal); 100; 200; 700 (bold); 900 (extra bold)*/
+	text-align:center;
+	/*Includes left, right, center, justify;*/
+}
+
+h2 {
+	font-size:24pt;
+	text-align:center;
+}
+
+.testweight {
+	font-weight:bold;
+	font-size:20pt;
+}
+
+.style {
+	font-style: italic;
+	font-size:20pt;
+}
+
+.spacing {
+	letter-spacing:0.35em;
+	font-size:20pt;
+}
+
+.transform {
+	text-transform:capitalize;
+	font-size: 20pt;
+}
+
+.decoration {
+	text-decoration:line-through;
+	font-size: 20pt;
+}
