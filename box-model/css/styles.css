@@ -1,0 +1,175 @@
+body {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+section.intro {
+	width:100%;
+	margin:0;
+	background-image: url(https://d3ertfc829vzop.cloudfront.net/-/media/Tauck/Collection/Hero-Images/Collection_NationalParks_banner.jpg?h=817&la=en&w=1400&rev=aa0fddc37db54c90a18aa7f4ad721b4e&hash=46B90B8B843F7D5E77B82151D389DC5E97B3BEDE);
+	background-size:100%;
+}
+
+div.intro {
+	text-align: center;
+	padding:155px;
+	padding-top:120px;
+	padding-bottom:150px;
+	margin:0px auto;
+	border-width: 25px;
+}
+
+h1 {
+	font-family: "Archivo Narrow", sans-serif;
+	font-weight:bold;
+	color:white;
+	font-size: 80px;
+	margin-bottom:-30px;
+	margin-top:30px;
+}
+
+.subheader {
+	font-family: "Archivo Narrow", sans-serif;
+	font-weight: bold;
+	color:white;
+	font-size:30px;
+}
+
+footer {
+	font-family: "Archivo Narrow", sans-serif;
+	color:green;
+}
+
+div.second {
+	font-family: "Archivo Narrow", sans-serif;
+	background-color:darkorange;
+	width:100%;
+	padding-top: 0;
+	margin:0px auto;
+	border:500px;
+	border-color: red;
+	box-sizing: border-box;
+	align-content: center;
+}
+
+h2 {
+	font-size: 40px;
+	text-align: center;
+	margin:0;
+	padding-top:40px;
+	padding-bottom:-100px;
+	color:white;
+}
+
+img.park {
+	float:right;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+p.textwithphoto {
+	font-size:17px;
+	padding-left: 100px auto;
+	padding-right:100px auto;
+	line-height: 24.5px;
+	font-stretch: extra-condensed;
+	padding-top:0;
+	width:950px;
+	margin:100px auto;
+	margin-top: 43px;
+	padding-bottom: 50px;
+	color:white;
+
+}
+
+section.three {
+	background-color:lightblue;
+	width:100%;
+	height:690px;
+}
+
+div.third {
+	font-family:"Archivo Narrow", sans-serif;
+	padding:1px;
+	background-color:lightblue;
+	background-size:auto;
+	margin:150px auto;
+	margin-top:-100px;
+	padding-left:20px;
+	padding-right:20px;
+	box-sizing: border-box;
+	width:1150px;
+	align-content: center;
+	margin-bottom:-100px;
+}
+
+h3 {
+	text-align:center;
+	font-size:40px;
+}
+
+div.title {
+	font-weight: bold;
+	font-size:14pt;
+}
+
+div.text {
+	font-size:12pt;
+	width:220px;
+	display:inline-block;
+}
+
+img.waterfall {
+	width:200px;
+	height:150px;
+	float:left;
+	margin-right:15px;
+	display: inline-block;
+}
+
+ul {
+	list-style: none;
+	padding-inline-start:80px;
+}
+
+li {
+	width:45%;
+	vertical-align: top;
+	padding:10px;
+	display:inline-block;
+}
+
+section.fourth {
+	background-color:lightgreen;
+	height:400px;
+	margin-top:-1px;
+}
+
+div.fourth {
+	font-family:"Archivo Narrow", sans-serif;
+	margin-right:150px;
+	margin-left:150px;
+	padding-top:1px;
+}
+
+p.fourth {
+	text-align:center;
+	font-size:19pt;
+	margin:auto;
+	line-height: 1.25;
+	width:750px;
+}
+
+footer {
+	background-color: lightyellow;
+	width:100%;
+	padding:20px;
+	margin:auto;
+}
+
+p.footer {
+	font-size:13pt;
+	color:#696969;
+	margin-left:100px;
+}
